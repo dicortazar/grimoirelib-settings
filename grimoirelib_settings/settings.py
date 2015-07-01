@@ -19,7 +19,7 @@
 ##
 
 
-class GL_Settings(object):
+class Settings(object):
     """ This class lists a set of constants to be used accross several programs
     """
 
